@@ -67,11 +67,11 @@ import icon8 from "../public/images/008-telegram.png";
 import { Listbox } from "@headlessui/react";
 import { ChevronUpDownIcon } from "@heroicons/react/20/solid";
 import Moblie_List_Mail from "@/components/Moblie_List_Mail";
-import Apptwo_footer from "@/components/apptow-popup/Apptwo_footer";
+import Apptwo_footer from "@/components/apptwo-popup/Apptwo_footer";
 
-import CreateAcc_popup from "@/components/apptow-popup/CreateAcc_popup";
-import Login_Acc_Popup from "@/components/apptow-popup/Login_Acc_Popup";
-import AppTwo_HeaderFull from "@/components/apptow-popup/AppTwo_HeaderFull";
+import CreateAcc_popup from "@/components/apptwo-popup/CreateAcc_popup";
+import Login_Acc_Popup from "@/components/apptwo-popup/Login_Acc_Popup";
+import AppTwo_HeaderFull from "@/components/apptwo-popup/AppTwo_HeaderFull";
 
 const people = [
   { id: 1, name: "Wade Cooper.com" },

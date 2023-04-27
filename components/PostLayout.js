@@ -16,11 +16,13 @@ import {
   EllipsisVerticalIcon,
   MagnifyingGlassIcon,
 } from "@heroicons/react/20/solid";
+
 import MainSideBar from "@/components/MainSideBar";
 import Header from "@/components/Header";
 import UnreadMail from "@/components/Inbox_Components/UnreadMail";
 import EmptyMail from "@/components/Inbox_Components/EmptyMail";
-import Home from "@/pages";
+import Home from "@/pages/index";
+
 const navigation = [
   { name: "Home", href: "#", icon: HomeIcon, current: true },
   { name: "My tasks", href: "#", icon: Bars4Icon, current: false },
