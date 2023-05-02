@@ -19,8 +19,7 @@ import {
 
 import MainSideBar from "@/components/MainSideBar";
 import Header from "@/components/Header";
-import UnreadMail from "@/components/Inbox_Components/UnreadMail";
-import EmptyMail from "@/components/Inbox_Components/EmptyMail";
+
 import Home from "@/pages/index";
 
 const navigation = [
