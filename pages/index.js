@@ -1572,7 +1572,7 @@ export default function Home() {
                   </div>
                   <div
                     className="
-           h-[100vh] overflow-y-hidden hover:overflow-y-auto pr-5  scrollbar-thumb-rounded-full scrollbar-track-rounded-full scrollbar-thin hover:scrollbar-thumb-gray-700 hover:scrollbar-track-gray-300"
+           h-[100vh] overflow-y-hidden hover:overflow-y-auto hover:pr-[2px] pr-[10px]  scrollbar-thumb-rounded-full scrollbar-track-rounded-full scrollbar-thin hover:scrollbar-thumb-gray-700 hover:scrollbar-track-gray-300"
                   >
                     {/* <div className="flex flex-col gap-2 mb-9">
               <div className="flex">
